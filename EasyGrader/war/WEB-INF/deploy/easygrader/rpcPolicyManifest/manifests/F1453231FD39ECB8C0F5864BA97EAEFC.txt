@@ -1,0 +1,2 @@
+serviceClass: edu.gac.mcs287.EasyGrader.client.GreetingService
+path: A5CB8DF2D996F729C252B31B99118EA5.gwt.rpc
