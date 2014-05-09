@@ -6,19 +6,10 @@
          xmlns="http://java.sun.com/xml/ns/javaee">
 
   <!-- Servlets -->
-  <servlet>
-    <servlet-name>greetServlet</servlet-name>
-    <servlet-class>edu.gac.mcs287.EasyGrader.server.GreetingServiceImpl</servlet-class>
-  </servlet>
-  
-  <servlet-mapping>
-    <servlet-name>greetServlet</servlet-name>
-    <url-pattern>/easygrader/greet</url-pattern>
-  </servlet-mapping>
-  
+
   <!-- Default page to serve -->
   <welcome-file-list>
-    <welcome-file>EasyGrader.html</welcome-file>
+    <welcome-file>welcome.html</welcome-file>
   </welcome-file-list>
 
 </web-app>

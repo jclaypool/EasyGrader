@@ -1,0 +1,13 @@
+@CHARSET "US-ASCII";
+
+.sidebar{
+	width: 200px;
+	float: left;
+	background-color: orange;
+
+}
+
+.mainbody{
+	float: absolute;
+	background-color: red;
+}
